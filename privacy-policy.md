@@ -1,0 +1,147 @@
+# Privacy Policy - 3D Slicer Pro
+
+**Effective Date: January 2025**  
+**Last Updated: January 2025**
+
+## 1. Introduction
+
+JT Plugin Development ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect information when you use our 3D Slicer Pro plugin ("the Plugin") for Autodesk Fusion 360.
+
+## 2. Information We Collect
+
+### 2.1 Data We DO NOT Collect
+The 3D Slicer Pro plugin operates entirely locally within Fusion 360 and **does not collect, store, or transmit any personal data or design files**. Specifically:
+
+- ✅ **No user account required**
+- ✅ **No design files uploaded or stored**
+- ✅ **No personal information collected**
+- ✅ **No tracking or analytics**
+- ✅ **No internet connection required for operation**
+
+### 2.2 Local Processing Only
+All slicing operations are performed locally on your computer within Fusion 360. Your 3D models and design data never leave your device.
+
+### 2.3 Support Communications
+If you contact us for support via email (`gianni.tommasi@gmail.com`), we may collect:
+- Your email address
+- Technical information you voluntarily provide
+- Error logs you choose to share
+
+This information is used solely to provide technical support and is not shared with third parties.
+
+## 3. How We Use Information
+
+### 3.1 Plugin Functionality
+The Plugin processes your 3D model data locally to:
+- Create slicing planes
+- Generate cut bodies
+- Rename and organize timeline features
+
+This processing occurs entirely within Fusion 360's environment.
+
+### 3.2 Support Services
+Support information is used to:
+- Troubleshoot technical issues
+- Improve plugin functionality
+- Provide user assistance
+
+## 4. Data Storage and Security
+
+### 4.1 Local Storage
+The Plugin may store user preferences locally on your device, including:
+- Default slice thickness settings
+- Preferred naming conventions
+- UI preferences
+
+This data remains on your local machine and is not transmitted anywhere.
+
+### 4.2 No Cloud Storage
+We do not store any user data on external servers or cloud services.
+
+## 5. Third-Party Data Sharing
+
+### 5.1 No Data Sharing
+We **do not share, sell, or distribute** any user data to third parties because we do not collect personal data.
+
+### 5.2 Autodesk Integration
+The Plugin operates within Autodesk Fusion 360 using official APIs. Please refer to [Autodesk's Privacy Policy](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) for information about how Autodesk handles data within their platform.
+
+## 6. Data Retention and Deletion
+
+### 6.1 No Data Retention
+Since we do not collect personal data, there is no data retention period.
+
+### 6.2 Local Data Removal
+To remove locally stored preferences:
+1. Uninstall the Plugin through Fusion 360's Add-ins manager
+2. Delete any remaining preference files from your local Fusion 360 directory
+
+### 6.3 Support Communication Retention
+Support emails may be retained for up to 2 years for quality assurance purposes. You may request deletion of support communications by contacting us at `gianni.tommasi@gmail.com`.
+
+## 7. Your Rights
+
+### 7.1 Right to Information
+You have the right to know what data we collect (which is minimal as described above).
+
+### 7.2 Right to Request Deletion
+You may request deletion of any support communications by emailing `gianni.tommasi@gmail.com`.
+
+### 7.3 Right to Data Portability
+Since we do not collect personal data, data portability is not applicable.
+
+## 8. Children's Privacy
+
+The Plugin is not directed at children under 13 years of age. We do not knowingly collect personal information from children under 13.
+
+## 9. International Users
+
+The Plugin operates locally and does not transmit data internationally. Support communications are handled from Italy and may be subject to Italian and EU data protection laws.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted at:
+- `https://giannitommasi.github.io/privacy-policy`
+- Plugin documentation
+- App Store listing updates
+
+Continued use of the Plugin after changes constitutes acceptance of the updated policy.
+
+## 11. Legal Compliance
+
+This Privacy Policy complies with:
+- **GDPR** (European Union General Data Protection Regulation)
+- **Italian Privacy Laws**
+- **Autodesk App Store Requirements**
+
+## 12. Contact Information
+
+### 12.1 Data Controller
+**JT Plugin Development**  
+Giovanni Tommasi  
+Email: `gianni.tommasi@gmail.com`  
+Website: `https://github.com/jtplugin`
+
+### 12.2 Support
+For questions about this Privacy Policy or the Plugin:
+- **Email**: `gianni.tommasi@gmail.com`
+- **Subject**: Include "3D Slicer Pro - Privacy"
+
+### 12.3 Data Protection Inquiries
+For GDPR-related requests or privacy concerns:
+- **Email**: `gianni.tommasi@gmail.com`
+- **Response Time**: Within 30 days
+
+---
+
+## Summary for Users
+
+**🔒 Your Privacy Matters**: 3D Slicer Pro is designed with privacy in mind. Your designs stay on your computer, and we don't collect any personal information.
+
+**📧 Contact Only**: The only time we might have your data is if you email us for support - and that's completely voluntary.
+
+**🛡️ GDPR Compliant**: This policy meets all European privacy requirements.
+
+---
+
+*This Privacy Policy was last updated on January 2025 and is effective immediately.*
