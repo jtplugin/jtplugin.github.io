@@ -24,7 +24,7 @@ It does not apply to data processing activities carried out independently by thi
 
 Our plugin operates locally within Autodesk Fusion.
 
-We do not collect, transmit, monitor, or store:
+We *do not* collect, transmit, monitor, or store:
 
 * User project files
 * Design content
