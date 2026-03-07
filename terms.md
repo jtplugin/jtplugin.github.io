@@ -192,7 +192,7 @@ These Terms are governed by the laws of Italy, without regard to conflict of law
 
 ### 15.2 Jurisdiction
 
-Any disputes arising from these Terms or any Plugin shall be resolved in the courts of Bari, Italy.
+Any disputes arising from these Terms or any Plugin shall be resolved in the courts of Lecce, Italy.
 
 ### 15.3 Informal Resolution
 
