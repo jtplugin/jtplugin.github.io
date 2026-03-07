@@ -70,6 +70,8 @@ When enabled, all generated panels are placed in a new component under the root.
 
 The Flat Layout section generates a flat copy of all panels arranged on the XY plane — ready for DXF/DWG export and laser cutting.
 
+> 💡 **Need more flat layout options?** JT Box Joint includes essential flat layout functionality. For advanced nesting, multi-body layouts, and custom arrangement options, check out the dedicated **JT Flat Layout** plugin.
+
 ![Flat layout panel disposition](https://raw.githubusercontent.com/jtplugin/fusion-box-joint/main/screenshots/Flat%20Layout%20disposition.png)
 
 ### Create Flat Layout
@@ -126,6 +128,8 @@ If Custom Feature was not used, parameters cannot be changed after creation — 
 Pro licenses are available on the [Autodesk App Store](https://apps.autodesk.com). After purchase, restart Fusion to activate your licence.
 
 Full feature details: [features.md](features.md)
+
+> 💡 **Need more flat layout options?** For advanced nesting, multi-body layouts, and custom arrangement options, check out the dedicated **JT Flat Layout** plugin.
 
 ---
 

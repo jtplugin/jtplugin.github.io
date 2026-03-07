@@ -56,7 +56,9 @@
 ## Upgrade to Pro
 
 Pro licenses are available on the [Autodesk App Store](https://apps.autodesk.com).  
-After purchase, restart Fusion to activate your licence.  
+After purchase, restart Fusion to activate your licence.
+
+> 💡 **Need more flat layout options?** JT Box Joint includes essential flat layout functionality. For advanced nesting, multi-body layouts, and custom arrangement options, check out the dedicated **JT Flat Layout** plugin.  
 If the licence is not detected, use **Refresh Entitlement** from the add-in menu.
 
 ---
