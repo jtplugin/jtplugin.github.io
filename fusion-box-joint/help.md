@@ -156,7 +156,6 @@ Restart Fusion. The licence check runs automatically at startup. If the issue pe
 
 - **Email:** [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
 - **GitHub Issues:** [github.com/jtplugin/fusion-box-joint/issues](https://github.com/jtplugin/fusion-box-joint/issues)
-- **Response time:** 24–48 hours (Pro users priority)
 
 ---
 
