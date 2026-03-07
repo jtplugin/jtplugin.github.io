@@ -426,7 +426,7 @@ The plugin automatically creates and manages parameters to support parametric de
 ### Additional Resources
 - **GitHub Repository:** https://github.com/jtplugin/fusion-magic-revolve
 - **Privacy Policy:** https://jtplugin.github.io/privacy-policy
-- **Terms of Service:** https://jtplugin.github.io/terms
+- **Terms of Service:** https://jtplugin.github.io/fusion-magic-revolve/terms_of_service
 - **Company Website:** https://github.com/jtplugin
 
 ---
