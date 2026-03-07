@@ -31,7 +31,7 @@ Our plugins for Autodesk® Fusion® are developed by Giovanni Tommasi ("JT Plugi
 
 The Trial version of each Plugin grants you a non-exclusive, non-transferable, revocable license to use the Plugin subject to the limitations specific to that Plugin. For the full list of Trial limitations and Pro features for each Plugin, refer to:
 
-- [JT Box Joint — features](fusion-box-joint/)
+- [JT Box Joint — features](fusion-box-joint/features.md)
 - [JT Magic Revolve — features](fusion-magic-revolve/)
 - [JT 3D Slicer — features](fusion-3d-slicer/)
 
