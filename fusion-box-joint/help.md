@@ -103,7 +103,7 @@ Places the flat layout panels in a dedicated sub-component for cleaner browser a
 
 ## 🔄 Editing an Existing Box
 
-If the box was created with **Wrap in Custom Feature** enabled, double-click the *JT Box Joint* entry in the timeline to reopen the dialog and change any parameter. The model updates automatically.
+If the box was created with **Wrap in Custom Feature** enabled, double-click the *JT Box Joint* entry in the timeline to reopen the dialog and change any parameter. All parameters can be modified — thickness, tab width, kerf, divisions, flat layout options — except the **Open Face**, which must remain consistent with the original solid geometry. The model updates automatically.
 
 If Custom Feature was not used, parameters cannot be changed after creation — undo and recreate if needed.
 
@@ -123,7 +123,7 @@ If Custom Feature was not used, parameters cannot be changed after creation — 
 
 ¹ In Trial, Tab Width is fixed at 3× the material thickness.
 
-Pro licenses are available on the [Autodesk App Store](https://apps.autodesk.com). After purchase, restart Fusion to activate your licence. If the licence is not detected, use **Refresh Entitlement** from the add-in menu.
+Pro licenses are available on the [Autodesk App Store](https://apps.autodesk.com). After purchase, restart Fusion to activate your licence.
 
 Full feature details: [features.md](features.md)
 
@@ -144,7 +144,7 @@ This may occur with very small tab widths relative to panel size. Increase Tab W
 Make sure you are double-clicking the *JT Box Joint* feature in the timeline, not a sub-feature inside it. Collapse the group first if expanded.
 
 **Licence not detected after purchase**  
-Restart Fusion. If still not detected, use **Refresh Entitlement** from the add-in menu to force a new licence check.
+Restart Fusion. The licence check runs automatically at startup. If the issue persists, contact support at [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision).
 
 ---
 
