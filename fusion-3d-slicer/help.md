@@ -242,7 +242,7 @@ The Pro version automatically creates organized timeline groups:
 ### Additional Resources
 - **GitHub Repository:** https://github.com/jtplugin/fusion-3d-slicer
 - **Privacy Policy:** https://jtplugin.github.io/privacy-policy
-- **Terms of Service:** https://jtplugin.github.io/fusion-3d-slicer/terms_of_service
+- **Terms of Service:** https://jtplugin.github.io/terms
 - **Company Website:** https://github.com/jtplugin
 
 ---
