@@ -6,6 +6,12 @@
 
 ---
 
+## 📋 Overview
+
+Generate parametric bevel gear solids in Autodesk® Fusion®. Free trial: up to 3 gears per session, restricted angle and tooth-count ranges. Upgrade for full access.
+
+---
+
 ## 🚀 Quick Start
 
 1. Open the Solid workspace in Autodesk® Fusion® and click **JT Bevel Gears** in the Create panel.
@@ -35,15 +41,14 @@
 
 | Feature | Pro | LT | Trial |
 |---------|---|---|---|
-| Commands | {'main': True, 'mate': True, 'link': False} | {'main': True, 'mate': False, 'link': False} | {'main': True, 'mate': False, 'link': False} |
-| Auto axes | ✅ | ✅ | ❌ |
-| Rotation refs | ✅ | ❌ | ❌ |
-| Apex placement allowed | ✅ | ✅ | ❌ |
-| Gear naming | ✅ | ✅ | ❌ |
-| Feature grouping | ✅ | ✅ | ❌ |
-| Max generations per session | — | — | 3 |
-| Limited angles | — | — | True |
-| Limited tooth counts | — | — | True |
+| Assi automatici | ✅ | ✅ | ❌ |
+| Riferimenti rotazione automatici | ✅ | ❌ | ❌ |
+| Modalità apex consentita | ✅ | ✅ | ❌ |
+| Naming ruote generate | ✅ | ✅ | ❌ |
+| Raggruppamento features | ✅ | ✅ | ❌ |
+| Generazioni massime per sessione | — | — | 3 |
+| Angoli limitati (δ) | — | — | Yes |
+| Numero di denti limitato (z) | — | — | Yes |
 
 ---
 
