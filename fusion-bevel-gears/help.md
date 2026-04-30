@@ -41,14 +41,14 @@ Generate parametric bevel gear solids in Autodesk® Fusion®. Free trial: up to 
 
 | Feature | Pro | LT | Trial |
 |---------|---|---|---|
-| Assi automatici | ✅ | ✅ | ❌ |
-| Riferimenti rotazione automatici | ✅ | ❌ | ❌ |
-| Modalità apex consentita | ✅ | ✅ | ❌ |
-| Naming ruote generate | ✅ | ✅ | ❌ |
-| Raggruppamento features | ✅ | ✅ | ❌ |
-| Generazioni massime per sessione | — | — | 3 |
-| Angoli limitati (δ) | — | — | Yes |
-| Numero di denti limitato (z) | — | — | Yes |
+| Auto rotation axes | ✅ | ✅ | ❌ |
+| Auto rotation references | ✅ | ❌ | ❌ |
+| Apex positioning mode | ✅ | ✅ | Base center only |
+| Custom gear naming | ✅ | ✅ | Fixed default name |
+| Timeline feature grouping | ✅ | ✅ | Not grouped |
+| Gear generations per session | Unlimited | Unlimited | 3 |
+| Cone angle (δ) | Full range | Full range | 45° only |
+| Tooth count (z) | Full range | Full range | z ∈ {12, 18, 24} |
 
 ---
 
