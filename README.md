@@ -15,6 +15,9 @@ Professional body duplication and rotation with separate translation and rotatio
 ### [JT 3D Slicer](fusion-3d-slicer/)
 Slice 3D bodies into multiple parts along X, Y, or Z axes for laser cutting and digital fabrication.
 
+### [JT Bevel Gears](fusion-bevel-gears/)
+Generate parametric bevel gear solids in Autodesk® Fusion®. Free trial: up to 3 gears per session, restricted angle and tooth-count ranges. Upgrade for full access.
+
 ---
 
 ## Legal
