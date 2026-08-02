@@ -211,7 +211,7 @@ This plugin operates entirely locally within Fusion:
 ---
 
 **🚀 Ready to revolutionize your digital fabrication workflow?**  
-**Get 3D Slicer Pro on Autodesk App Store
+**[Get 3D Slicer Pro on Autodesk App Store][https://marketplace.autodesk.com/apps/4972cef1-def7-4c53-8bef-5cb109a6508b]
 
 ---
 
