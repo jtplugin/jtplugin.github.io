@@ -421,7 +421,10 @@ The plugin automatically creates and manages parameters to support parametric de
 - **Documentation:** This help page and GitHub repository
 - **Community:** GitHub Issues and discussions
 - **Feature Requests:** Priority consideration for new features
-- **Updates:** Automatic through Autodesk App Store
+- **Updates:** Through Autodesk App Store; installing an update is up to you
+
+### Support Period
+- **Security updates:** provided for this product until 2031-01-28.
 
 ### Additional Resources
 - **GitHub Repository:** https://github.com/jtplugin/fusion-magic-revolve
