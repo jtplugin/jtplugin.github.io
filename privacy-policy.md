@@ -41,7 +41,9 @@ To verify your license, the plugin contacts Autodesk's entitlement service and o
 * A hashed identifier of your computer
 * Your jtPlugin API key, if you entered one
 
-We use this data only to confirm your right to use the plugin; the legal basis is the performance of the license contract. The check does not store it: afterwards we keep only anonymous statistical records (plugin, version, result of the check and date), which cannot be linked to you.
+We use this data only to confirm your right to use the plugin; the legal basis is the performance of the license contract. Afterwards we keep only anonymous statistical records (plugin, version, result of the check and date), which cannot be linked to you.
+
+If you bought a license on jtplugin.it, your account also holds the Autodesk user ID you linked to it and, for licenses limited to a number of computers, the hashed identifiers of the computers that occupy those seats. We keep them for as long as the license lasts, only to apply it, and you can ask us to delete them by writing to [info@jtplugin.it](mailto:info@jtplugin.it).
 
 Like any web server, ours records the IP address of each request in its access log, used only for operation and security and overwritten within a few days.
 
