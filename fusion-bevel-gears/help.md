@@ -1,6 +1,6 @@
 <!-- GENERATED FROM .appstore/metadata.json; DO NOT EDIT BY HAND -->
 
-# JT Bevel Gears Help — v1.0.0
+# JT Bevel Gears Help — v1.3.0
 
 **Developer**: Giovanni Tommasi · **Support**: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
 
@@ -77,6 +77,7 @@ Verify the selected placement point is a valid construction point. In Base Cente
 - 📧 Email: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
 - 🌐 Help: [https://jtplugin.github.io/fusion-bevel-gears/help](https://jtplugin.github.io/fusion-bevel-gears/help)
 - 🐛 Issues: [github.com/jtplugin/jtplugin.github.io/issues](https://github.com/jtplugin/jtplugin.github.io/issues)
+- 🔐 Security updates: provided for this product until 2031-06-23.
 
 ---
 

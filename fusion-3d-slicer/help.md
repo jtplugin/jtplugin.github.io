@@ -231,13 +231,16 @@ The Pro version automatically creates organized timeline groups:
 ### Trial Version Support
 - **Documentation:** This help page and GitHub repository
 - **Community:** GitHub Issues and discussions
-- **Updates:** Automatic through Autodesk App Store
+- **Updates:** Through Autodesk App Store; installing an update is up to you
 
 ### Pro Version Support
 - **Priority Email:** jtplugin@ajl.vision
 - **Response Time:** 24-48 hours typical
 - **Direct Assistance:** Personalized troubleshooting
 - **Feature Requests:** Priority consideration for new features
+
+### Support Period
+- **Security updates:** provided for this product until 2030-09-10.
 
 ### Additional Resources
 - **GitHub Repository:** https://github.com/jtplugin/fusion-3d-slicer
