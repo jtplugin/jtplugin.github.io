@@ -417,7 +417,7 @@ The plugin automatically creates and manages parameters to support parametric de
 ## 📞 Support and Contact
 
 ### Support
-- **Email:** jtplugin@ajl.vision
+- **Email:** info@jtplugin.it
 - **Documentation:** This help page and GitHub repository
 - **Community:** GitHub Issues and discussions
 - **Feature Requests:** Priority consideration for new features
@@ -455,7 +455,7 @@ This software is distributed through the Autodesk App Store under the terms spec
 
 **Privacy:** We respect your privacy. This plugin does not collect or transmit your design data. License verification only transmits machine ID and license key information.
 
-**Support:** For technical support, licensing questions, or feature requests, contact us at jtplugin@ajl.vision
+**Support:** For technical support, licensing questions, or feature requests, contact us at info@jtplugin.it
 
 ---
 

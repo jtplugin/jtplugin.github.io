@@ -148,13 +148,13 @@ This may occur with very small tab widths relative to panel size. Increase Tab W
 Make sure you are double-clicking the *JT Box Joint* feature in the timeline, not a sub-feature inside it. Collapse the group first if expanded.
 
 **Licence not detected after purchase**  
-Restart Fusion. The licence check runs automatically at startup. If the issue persists, contact support at [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision).
+Restart Fusion. The licence check runs automatically at startup. If the issue persists, contact support at [info@jtplugin.it](mailto:info@jtplugin.it).
 
 ---
 
 ## 📞 Support
 
-- **Email:** [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
+- **Email:** [info@jtplugin.it](mailto:info@jtplugin.it)
 - **GitHub Issues:** [github.com/jtplugin/fusion-box-joint/issues](https://github.com/jtplugin/fusion-box-joint/issues)
 
 ---

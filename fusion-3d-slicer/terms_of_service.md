@@ -74,7 +74,7 @@ Pro licenses are tied to your machine ID. Each purchase includes one license for
 Free version users receive community support through our GitHub repository and documentation.
 
 ### 8.2 Pro Version Support
-Pro version users receive priority email support at gianni.tommasi@gmail.com with typical response times of 24-48 hours.
+Pro version users receive priority email support at info@jtplugin.it with typical response times of 24-48 hours.
 
 ### 8.3 Updates
 We provide updates to improve functionality and compatibility. Updates are delivered through the Autodesk App Store.
@@ -152,7 +152,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 For questions about these Terms or the Plugin, contact us at:
 
 **JT Plugin Development**  
-Email: jtplugin@ajl.vision  
+Email: info@jtplugin.it  
 Website: https://github.com/jtplugin  
 Support: https://jtplugin.github.io/privacy-policy
 

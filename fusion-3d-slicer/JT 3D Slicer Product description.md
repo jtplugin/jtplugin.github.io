@@ -166,4 +166,4 @@ Download JT 3D Slicer now and see why thousands of Fusion users trust it for the
 
 ---
 
-*Developed by JT Plugin Development | Support: jtplugin@ajl.vision | Website: github.com/jtplugin*
+*Developed by JT Plugin Development | Support: info@jtplugin.it | Website: github.com/jtplugin*

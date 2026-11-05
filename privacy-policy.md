@@ -8,7 +8,7 @@ This Privacy Policy explains how JTPlugin ("we", "our", or "us") processes perso
 
 For the purposes of applicable data protection laws, including the General Data Protection Regulation (GDPR), JTPlugin acts as the data controller for the personal data described in this Policy.
 
-Contact email: **[jtplugin@ajldata.it](mailto:jtplugin@ajldata.it)**
+Contact email: **[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 ---
 
@@ -64,7 +64,7 @@ These communications are limited to matters strictly related to the relevant plu
 
 Users may request information, clarification, or updates at any time by contacting:
 
-**[jtplugin@ajldata.it](mailto:jtplugin@ajldata.it)**
+**[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 ---
 
@@ -124,7 +124,7 @@ If you are located in the European Economic Area (EEA) or another jurisdiction p
 
 To exercise any of these rights, please contact:
 
-**[jtplugin@ajldata.it](mailto:jtplugin@ajldata.it)**
+**[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 We will respond within the timeframes required by applicable law.
 
@@ -134,7 +134,7 @@ We will respond within the timeframes required by applicable law.
 
 You may object at any time to receiving product-related communications by contacting:
 
-**[jtplugin@ajldata.it](mailto:jtplugin@ajldata.it)**
+**[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 Upon objection, we will cease sending further non-essential product communications.
 
@@ -152,7 +152,7 @@ We encourage users to review this Policy periodically.
 
 For any privacy-related questions, requests, or concerns, please contact:
 
-**[jtplugin@ajldata.it](mailto:jtplugin@ajldata.it)**
+**[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 Giovanni Tommasi
 via Lazari 6

@@ -105,7 +105,7 @@ Trial version users receive community support through our GitHub repositories an
 
 ### 8.2 Pro Version Support
 
-Pro version users receive priority email support at [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision) with typical response times of 24–48 hours.
+Pro version users receive priority email support at [info@jtplugin.it](mailto:info@jtplugin.it) with typical response times of 24–48 hours.
 
 ### 8.3 Updates
 
@@ -215,7 +215,7 @@ These Terms, together with our [Privacy Policy](privacy-policy.md), constitute t
 ## 18. Contact Information
 
 **JT Plugin Development**  
-Email: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)  
+Email: [info@jtplugin.it](mailto:info@jtplugin.it)  
 Website: [https://jtplugin.github.io](https://jtplugin.github.io)  
 GitHub: [https://github.com/jtplugin](https://github.com/jtplugin)
 

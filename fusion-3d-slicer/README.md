@@ -137,11 +137,11 @@ https://github.com/jtplugin/fusion-3d-slicer/assets/demo-3d-slicer-pro.mp4
 ### **Community**
 - **Issues**: [Report bugs](https://github.com/jtplugin/fusion-3d-slicer/issues)
 - **Discussions**: [Feature requests](https://github.com/jtplugin/fusion-3d-slicer/discussions)
-- **Email**: [gianni.tommasi@gmail.com](mailto:gianni.tommasi@gmail.com)
+- **Email**: [info@jtplugin.it](mailto:info@jtplugin.it)
 
 ### **Professional Support**
 For commercial projects and custom development:
-- **Email**: [gianni.tommasi@gmail.com](mailto:gianni.tommasi@gmail.com)
+- **Email**: [info@jtplugin.it](mailto:info@jtplugin.it)
 - **Response Time**: 24-48 hours
 - **Custom Development**: Available upon request
 

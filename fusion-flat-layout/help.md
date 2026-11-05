@@ -2,7 +2,7 @@
 
 # JT Flat Layout Help — v1.3.0
 
-**Developer**: Giovanni Tommasi · **Support**: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
+**Developer**: Giovanni Tommasi · **Support**: [info@jtplugin.it](mailto:info@jtplugin.it)
 
 ---
 
@@ -69,7 +69,7 @@ Enable Wrap in Custom Feature (Advanced group, Pro) before generating. Trial lay
 
 ## 📞 Support
 
-- 📧 Email: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
+- 📧 Email: [info@jtplugin.it](mailto:info@jtplugin.it)
 - 🌐 Help: [https://jtplugin.github.io/fusion-flat-layout/help](https://jtplugin.github.io/fusion-flat-layout/help)
 - 🐛 Issues: [github.com/jtplugin/jtplugin.github.io/issues](https://github.com/jtplugin/jtplugin.github.io/issues)
 

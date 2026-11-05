@@ -145,11 +145,11 @@ https://github.com/jtplugin/fusion-magic-revolve/assets/demo-magic-revolve.mp4
 ### **Community**
 - **Issues**: [Report bugs](https://github.com/jtplugin/fusion-magic-revolve/issues)
 - **Discussions**: [Feature requests](https://github.com/jtplugin/fusion-magic-revolve/discussions)
-- **Email**: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
+- **Email**: [info@jtplugin.it](mailto:info@jtplugin.it)
 
 ### **Professional Support**
 For commercial projects and custom development:
-- **Email**: [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)
+- **Email**: [info@jtplugin.it](mailto:info@jtplugin.it)
 - **Custom Development**: Available upon request
 
 ## 📊 Performance

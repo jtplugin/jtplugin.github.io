@@ -30,5 +30,5 @@ Unroll an Autodesk® Fusion® component into a flat, laser-ready layout in one c
 
 ---
 
-**Contact:** [jtplugin@ajl.vision](mailto:jtplugin@ajl.vision)  
+**Contact:** [info@jtplugin.it](mailto:info@jtplugin.it)  
 **GitHub:** [github.com/jtplugin](https://github.com/jtplugin)

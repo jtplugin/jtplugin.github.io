@@ -54,7 +54,7 @@ Generate a mating bevel gear (R2) directly from an existing R1 gear. The mate co
 
 ---
 
-[Privacy Policy](https://jtplugin.github.io/privacy-policy) · [Terms of Service](https://jtplugin.github.io/terms) · [Support](mailto:jtplugin@ajl.vision)
+[Privacy Policy](https://jtplugin.github.io/privacy-policy) · [Terms of Service](https://jtplugin.github.io/terms) · [Support](mailto:info@jtplugin.it)
 
 ---
 

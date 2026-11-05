@@ -50,7 +50,7 @@ A free Trial version (JT Flat Layout Trial) is available with a 5-panel limit, n
 
 ---
 
-[Privacy Policy](https://jtplugin.github.io/privacy-policy) · [Terms of Service](https://jtplugin.github.io/terms) · [Support](mailto:jtplugin@ajl.vision)
+[Privacy Policy](https://jtplugin.github.io/privacy-policy) · [Terms of Service](https://jtplugin.github.io/terms) · [Support](mailto:info@jtplugin.it)
 
 ---
 

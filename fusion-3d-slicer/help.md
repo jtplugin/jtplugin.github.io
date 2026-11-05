@@ -234,7 +234,7 @@ The Pro version automatically creates organized timeline groups:
 - **Updates:** Through Autodesk App Store; installing an update is up to you
 
 ### Pro Version Support
-- **Priority Email:** jtplugin@ajl.vision
+- **Priority Email:** info@jtplugin.it
 - **Response Time:** 24-48 hours typical
 - **Direct Assistance:** Personalized troubleshooting
 - **Feature Requests:** Priority consideration for new features
@@ -277,7 +277,7 @@ This software is distributed through the Autodesk App Store under the terms spec
 
 **Privacy:** We respect your privacy. This plugin does not collect or transmit your design data. License verification only transmits machine ID and license key information.
 
-**Support:** For technical support, licensing questions, or feature requests, contact us at jtplugin@ajl.vision
+**Support:** For technical support, licensing questions, or feature requests, contact us at info@jtplugin.it
 
 ---
 
