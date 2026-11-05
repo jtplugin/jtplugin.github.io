@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 27/02/2026
+**Last updated:** 05/11/2026
 
 ## 1. Data Controller
 
@@ -14,7 +14,7 @@ Contact email: **[info@jtplugin.it](mailto:info@jtplugin.it)**
 
 ## 2. Scope of This Policy
 
-This Policy applies to personal data we receive from third-party marketplaces in connection with the download, trial activation, purchase, or licensing of our plugin(s).
+This Policy applies to personal data we receive from third-party marketplaces in connection with the download, trial activation, purchase, or licensing of our plugin(s), and to the data the plugin sends to our license service (Section 3.1).
 
 It does not apply to data processing activities carried out independently by third-party marketplaces such as Autodesk. Please refer to their respective privacy policies for information about how they process your data.
 
@@ -30,9 +30,18 @@ We *do not* collect, transmit, monitor, or store:
 * Design content
 * Technical drawings
 * Usage analytics
-* Personal data directly from within the software environment
+* Any other personal data from within the software environment, apart from the license check described below
 
-The plugin does not send user data to external servers controlled by us.
+### 3.1 License Check
+
+To verify your license, the plugin contacts Autodesk's entitlement service and our license service at jtplugin.it. The check sends:
+
+* Your Autodesk user ID (an opaque identifier, not your email address)
+* The plugin identifier and version
+* A hashed identifier of your computer
+* Your jtPlugin API key, if you entered one
+
+We use this data only to verify the license and to prevent licenses from being shared without authorization. The legal basis is the performance of the license contract. Our license service runs on hardware we operate in Italy; no third-party hosting provider processes this data. We keep it for as long as your license is active, and you can ask us to delete it at any time by writing to [info@jtplugin.it](mailto:info@jtplugin.it).
 
 ---
 
