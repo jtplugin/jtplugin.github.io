@@ -92,6 +92,7 @@ Full conditions: [Terms of Service](https://jtplugin.github.io/terms), sections 
 - 📧 Email: [info@jtplugin.it](mailto:info@jtplugin.it)
 - 🌐 Help: [https://jtplugin.github.io/fusion-bevel-gears/help](https://jtplugin.github.io/fusion-bevel-gears/help)
 - 🐛 Issues: [github.com/jtplugin/jtplugin.github.io/issues](https://github.com/jtplugin/jtplugin.github.io/issues)
+- 🛡️ Security vulnerabilities: report them privately to [info@jtplugin.it](mailto:info@jtplugin.it), not in public issues. See our [Security Policy](https://jtplugin.github.io/security).
 - 🔐 Security updates: provided for this product until 2031-06-23.
 
 ---

@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 05/11/2026
+**Last updated:** 06/11/2026
 
 ## 1. Data Controller
 
@@ -41,7 +41,9 @@ To verify your license, the plugin contacts Autodesk's entitlement service and o
 * A hashed identifier of your computer
 * Your jtPlugin API key, if you entered one
 
-We use this data only to confirm your right to use the plugin; the legal basis is the performance of the license contract. Afterwards we keep only anonymous statistical records (plugin, version, result of the check and date), which cannot be linked to you.
+We use this data only to confirm your right to use the plugin; the legal basis is the performance of the license contract. Afterwards we keep only statistical records: plugin, version, result of the check, operating system, Fusion version, country, the hour of the check, and a one-way coded form of your Autodesk user ID, which lets us count distinct users but from which your ID cannot be recovered. We never store your Autodesk user ID, your computer identifier, your API key or your IP address in these records.
+
+The country is derived from the IP address of the request with a geolocation database kept on our own server; the IP address is not sent to any third party and is discarded once the country is known. IP Geolocation by [DB-IP](https://db-ip.com) (CC BY 4.0).
 
 If you bought a license on jtplugin.it, your account also holds the Autodesk user ID you linked to it and, for licenses limited to a number of computers, the hashed identifiers of the computers that occupy those seats. We keep them for as long as the license lasts, only to apply it, and you can ask us to delete them by writing to [info@jtplugin.it](mailto:info@jtplugin.it).
 

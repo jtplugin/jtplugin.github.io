@@ -171,6 +171,7 @@ Full conditions: [Terms of Service](https://jtplugin.github.io/terms), sections 
 
 - **Email:** [info@jtplugin.it](mailto:info@jtplugin.it)
 - **GitHub Issues:** [github.com/jtplugin/fusion-box-joint/issues](https://github.com/jtplugin/fusion-box-joint/issues)
+- **Security vulnerabilities:** report them privately to [info@jtplugin.it](mailto:info@jtplugin.it), not in public issues. See our [Security Policy](https://jtplugin.github.io/security).
 
 ---
 

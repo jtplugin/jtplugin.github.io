@@ -1,7 +1,7 @@
 # Terms of Service — JT Plugin Development
 
 **Effective Date:** January 15, 2025  
-**Last Updated:** November 5, 2026
+**Last Updated:** November 6, 2026
 
 These Terms of Service apply to all plugins developed and distributed by JT Plugin Development ("we", "us", or "our") through the Autodesk App Store, including:
 
@@ -129,6 +129,8 @@ We provide updates to improve functionality and compatibility. Updates are deliv
 Updates, security updates included, are free of charge for everyone who holds a license. Each Plugin receives security updates until the end of its support period, stated on the Plugin's help page.
 
 Updates are not installed automatically: installing them is up to you. We are not responsible for problems that an update already available to you would have prevented.
+
+To report a security vulnerability, write to [info@jtplugin.it](mailto:info@jtplugin.it) as described in our [Security Policy](security.md).
 
 ---
 

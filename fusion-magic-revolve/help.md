@@ -439,9 +439,9 @@ Full conditions: [Terms of Service](https://jtplugin.github.io/terms), sections 
 
 ### Support Period
 - **Security updates:** provided for this product until 2031-01-28.
+- **Security vulnerabilities:** report them privately to [info@jtplugin.it](mailto:info@jtplugin.it), not in public issues. See our [Security Policy](https://jtplugin.github.io/security).
 
 ### Additional Resources
-- **GitHub Repository:** https://github.com/jtplugin/fusion-magic-revolve
 - **Privacy Policy:** https://jtplugin.github.io/privacy-policy
 - **Terms of Service:** https://jtplugin.github.io/fusion-magic-revolve/terms_of_service
 - **Company Website:** https://github.com/jtplugin

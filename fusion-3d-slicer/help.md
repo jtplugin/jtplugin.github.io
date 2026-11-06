@@ -256,6 +256,7 @@ Full conditions: [Terms of Service](https://jtplugin.github.io/terms), sections 
 
 ### Support Period
 - **Security updates:** provided for this product until 2030-09-10.
+- **Security vulnerabilities:** report them privately to [info@jtplugin.it](mailto:info@jtplugin.it), not in public issues. See our [Security Policy](https://jtplugin.github.io/security).
 
 ### Additional Resources
 - **GitHub Repository:** https://github.com/jtplugin/fusion-3d-slicer

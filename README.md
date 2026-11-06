@@ -27,6 +27,7 @@ Unroll an Autodesk® Fusion® component into a flat, laser-ready layout in one c
 
 - [Privacy Policy](privacy-policy.md)
 - [Terms of Service](terms.md)
+- [Security Policy](security.md)
 
 ---
 
